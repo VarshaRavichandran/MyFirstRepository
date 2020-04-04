@@ -1,8 +1,8 @@
 # MyFirstRepository
 testing out
 
-`login.js`:
-   ![image](/sample/login.png "login") 
+- `login.js`:
+ ![image](/sample/login.png "login") 
 
-`landing.js`:
-![image](/sample/assetlist.png "assetlist")
+- `landing.js`:
+ ![image](/sample/assetlist.png "assetlist")
