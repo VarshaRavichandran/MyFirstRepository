@@ -1,4 +1,4 @@
 # MyFirstRepository
 testing out
 
-![image](login.jpg)
+![image](/sample/login.jpg)
