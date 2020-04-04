@@ -1,4 +1,7 @@
 # MyFirstRepository
 testing out
 
-![image](/sample/login.jpg "title1") ![image](/sample/login.jpg "title2")
+![Alt](/sample/login.jpg “image title”) 
+
+
+![image](/sample/login.jpg "title2")
