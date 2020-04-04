@@ -19,4 +19,4 @@ On clicking any asset on the table, all other information pertaining to that par
 
 ‘On row click’ features like deletion of assets(on selecting one or more rows) and editing an asset's information(on selecting strictly one row) are available in CustomToolbarSelect.
 
-![image](/sample/CustomToolbarSelect.png "editDelete")
+![image](/sample/editDelete.png "editDelete")
