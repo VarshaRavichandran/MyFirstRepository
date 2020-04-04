@@ -4,7 +4,7 @@ testing out
 - `Login.js` and `Logout.js`:
 
 These are the basic components that provide the functionality of logging in and out of Vento.
-![image](/sample/loginLogout.jpg "login and logout")
+![image](/sample/loginLogout.png "login and logout")
 
 - `Landing.js`:
 
@@ -26,4 +26,4 @@ On clicking any asset on the table, the `ViewAsset` component provides all other
 #### Creating/ Editing an asset:
 
 [React modals](https://react-bootstrap.github.io/components/modal/) are used to serve as a dialog pop-up on asset create/edit. The `AssetForm` component provides the form with the required fields necessary for asset create/edit. A common form is used for both and based on the mode i.e, create or edit, the form content is changed.
-![image](/sample/createEdit.jpg "create and edit forms")
+![image](/sample/createEdit.png "create and edit forms")
