@@ -13,6 +13,8 @@ The client side is built on [Reactjs](https://reactjs.org/).
 
 ### Control Flow
 
+The control flow for the project vento's front end is as illustrated.
+![image](sample/ventoFlow.png "control flow")
 
 
 ### Components- Mapping
