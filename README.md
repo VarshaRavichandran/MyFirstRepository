@@ -1,5 +1,22 @@
-# MyFirstRepository
-testing out
+# Vento Client
+
+The client side is built on [Reactjs](https://reactjs.org/).
+
+
+### UI Layout
+1. 	The Client side of Vento Inventory Management System begins with a login screen. The Existing users can Sign In.
+2. 	It then takes the user to the main dashboard. On the Sidebar are two options; `Overview` and `AssetList`.
+3. 	`Overview` gives a brief about the App.
+4. 	`AssetList` lists out all the Hardware and Software assets on a table.
+5. 	The user depending upon his permission upon login can Create an asset, Edit an asset, Delete asset(s) or also Upload the assets through a CSV.
+
+
+### Control Flow
+
+
+
+### Components- Mapping
+
 
 - `Login.js` and `Logout.js`:
 
@@ -23,7 +40,7 @@ On clicking any asset on the table, the `ViewAsset` component provides all other
 ‘On row click’ features like deletion of assets(on selecting one or more rows) and editing an asset's information(on selecting strictly one row) are available in `CustomToolbarSelect`.
 ![image](/sample/editDelete.png "edit and delete options")
 
-#### Creating/ Editing an asset:
+##### Creating/ Editing an asset:
 
 [React modals](https://react-bootstrap.github.io/components/modal/) are used to serve as a dialog pop-up on asset create/edit. The `AssetForm` component provides the form with the required fields necessary for asset create/edit. A common form is used for both and based on the mode i.e, create or edit, the form content is changed.
 ![image](/sample/createEdit.png "create and edit forms")
